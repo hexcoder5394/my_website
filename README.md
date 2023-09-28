@@ -1,2 +1,5 @@
 # my_website
-This is repo for my official website
+This is repositery for my official website
+
+
+The site is temporary.. more features will be added soon.
