@@ -55,9 +55,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/yourtwitterhandle)
+- **Email:** achinthajayalal001@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/achintha-prasanna-b9a463268/)
 
 ## Acknowledgments
 
